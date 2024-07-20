@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisSistemiTaskForHiring.Application", "SiparisSistemiTaskForHiring\SiparisSistemiTaskForHiring.Application\SiparisSistemiTaskForHiring.Application.csproj", "{7FC88363-AD04-4A87-8852-E9B0A3709764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisSistemiTaskForHiring.Domain", "SiparisSistemiTaskForHiring\SiparisSistemiTaskForHiring.Domain\SiparisSistemiTaskForHiring.Domain.csproj", "{1C7E504D-DD48-4571-82BF-5EC452A16C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisSistemiTaskForHiring.Infrastructure", "SiparisSistemiTaskForHiring\SiparisSistemiTaskForHiring.Infrastructure\SiparisSistemiTaskForHiring.Infrastructure.csproj", "{F73324DA-3FB3-45A9-A293-61216E65E533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisSistemiTaskForHiring.WebAPI", "SiparisSistemiTaskForHiring\SiparisSistemiTaskForHiring.WebAPI\SiparisSistemiTaskForHiring.WebAPI.csproj", "{AA631B0C-06F9-4192-B7C3-32F8490E0ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC88363-AD04-4A87-8852-E9B0A3709764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC88363-AD04-4A87-8852-E9B0A3709764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC88363-AD04-4A87-8852-E9B0A3709764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC88363-AD04-4A87-8852-E9B0A3709764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7E504D-DD48-4571-82BF-5EC452A16C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7E504D-DD48-4571-82BF-5EC452A16C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7E504D-DD48-4571-82BF-5EC452A16C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7E504D-DD48-4571-82BF-5EC452A16C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73324DA-3FB3-45A9-A293-61216E65E533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73324DA-3FB3-45A9-A293-61216E65E533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73324DA-3FB3-45A9-A293-61216E65E533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73324DA-3FB3-45A9-A293-61216E65E533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA631B0C-06F9-4192-B7C3-32F8490E0ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA631B0C-06F9-4192-B7C3-32F8490E0ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA631B0C-06F9-4192-B7C3-32F8490E0ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA631B0C-06F9-4192-B7C3-32F8490E0ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88858E98-C410-4A95-BD88-E74B7D158017}
+	EndGlobalSection
+EndGlobal
