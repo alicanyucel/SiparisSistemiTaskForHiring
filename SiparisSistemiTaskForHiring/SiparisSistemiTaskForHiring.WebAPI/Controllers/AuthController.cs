@@ -12,7 +12,7 @@ namespace SiparisSistemiTaskForHiring.WebAPI.Controllers
         public AuthController(IMediator mediator) : base(mediator)
         {
         }
-
+        // işe giriş projesi
         [HttpPost]
         public async Task<IActionResult> Login(LoginCommand request, CancellationToken cancellationToken)
         {
